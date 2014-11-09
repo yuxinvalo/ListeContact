@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
+    tools:context="com.example.listecontacts.MainActivity" >
+=======
+    tools:context="com.example.contacts.MainActivity" >
+>>>>>>> a9e7c60fa3697bed504725d395289904ca92fbae
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+</menu>

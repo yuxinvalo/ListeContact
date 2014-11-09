@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+    package="com.example.listecontacts"
+=======
+    package="com.example.contacts"
+>>>>>>> a9e7c60fa3697bed504725d395289904ca92fbae
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+<<<<<<< HEAD
+        android:targetSdkVersion="21" />
+=======
+        android:targetSdkVersion="19" />
+>>>>>>> a9e7c60fa3697bed504725d395289904ca92fbae
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+<<<<<<< HEAD
+            android:name=".MainActivity"
+=======
+            android:name="com.example.contacts.MainActivity"
+>>>>>>> a9e7c60fa3697bed504725d395289904ca92fbae
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<<<<<<< HEAD
+        <activity android:name="Presentation"></activity><activity
+            android:name=".ContactActivity"
+            android:label="@string/title_activity_contact" >
+        </activity>
+        
+=======
+>>>>>>> a9e7c60fa3697bed504725d395289904ca92fbae
+    </application>
+
+</manifest>
